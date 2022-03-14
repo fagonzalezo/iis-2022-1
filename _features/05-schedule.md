@@ -40,7 +40,7 @@ image:
 					[CS188-Berkeley] Planning agents (<a href= "https://drive.google.com/file/d/1X74qlbbKkx2gwlyAyFEoe-Viu8X36DYO/view">slides</a>) (<a href= "https://www.youtube.com/watch?v=PUMNeQL1hBc&list=PLp8QV47qJEg5xVEt_bnImKNVFZ1QyHTRx&index=1">video</a>)<br>
 				</td>
 				<td>
-					<!-- <a href= "https://colab.research.google.com/drive/18ZWxA8iy7Bjz8K3uuAUPjCqYLR8akJ8A?usp=sharing">Práctica 2</a> -->
+					<a href= "https://colab.research.google.com/drive/18ZWxA8iy7Bjz8K3uuAUPjCqYLR8akJ8A?usp=sharing">Práctica 2</a>
 				</td>
 			</tr>
 			<tr>
