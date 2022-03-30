@@ -49,7 +49,10 @@ image:
 					2.2 Búsqueda no informada<br>
 				</td>
 				<td>
-					<b>Clase asíncrona</b>: Agentes, búsquedas, BFS, DFS (<a href= "https://drive.google.com/file/d/1hxerUmA98tGmbXNyghmE9qQnxSKTkoAG/view?usp=sharing">video</a>)<br>
+					<b>Clase asíncrona</b>: Agentes, búsquedas, BFS, DFS 
+					(<a href= "https://drive.google.com/file/d/1rCG8U_UPXKQsmXBBXgOCGoejfl1c3ifp/view?usp=sharing">video 1</a>)
+					(<a href= "https://drive.google.com/file/d/1zPeyIm2WCcDsbIAWt7VtHaLuBkHwoHj8/view?usp=sharing">video 2</a>) 
+					(<a href= "https://drive.google.com/file/d/1r5G2KcEMwJ1tb1r_IK54IQGGM6dHZJ-L/view?usp=sharing">video 3</a>)<br>
 					<b>Lectura:</b> [<a href= "http://aima.cs.berkeley.edu/contents.html">Russell21</a>] Sect 3.1-3.4 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter02.pdf">slides</a>)<br>
 					<b>Recursos adicionales:</b><br>
 					[CS188-Berkeley] Uninformed search (<a href= "https://drive.google.com/file/d/1X74qlbbKkx2gwlyAyFEoe-Viu8X36DYO/view">slides</a>) (<a href= "https://www.youtube.com/playlist?list=PLp8QV47qJEg5xVEt_bnImKNVFZ1QyHTRx">video</a>)<br>
