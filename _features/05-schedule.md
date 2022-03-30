@@ -74,7 +74,7 @@ image:
 					<a href= "https://github.com/aimacode/aima-python/blob/master/search4e.ipynb">Search algorithms notebook from AIMA </a><br>	
 				</td>
 				<td>
-					<!-- <a href= "https://colab.research.google.com/drive/1qy6MphviigtO_L9PTCCXcjAQrsyoSt7J?usp=sharing">Taller 2</a> -->
+					<a href= "https://colab.research.google.com/drive/1qy6MphviigtO_L9PTCCXcjAQrsyoSt7J?usp=sharing">Taller 2</a>
 				</td>
 			</tr>
 			<tr>
