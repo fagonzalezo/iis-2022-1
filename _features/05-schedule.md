@@ -109,7 +109,7 @@ image:
 					<a href= "https://colab.research.google.com/drive/1nkxk-h0cBICX2uTCSWaIF6YXhKNMhR8u?usp=sharing">Notebook: Clasificación Lineal y Evaluación del Desempeño</a><br>
 				</td>
 				<td>
-					<!-- <a href= "practica4.pdf">Práctica 4</a> -->
+					<a href= "practica3.pdf">Práctica 3</a>
 				</td>
 			</tr>
 			<tr>
