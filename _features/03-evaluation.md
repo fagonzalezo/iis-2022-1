@@ -6,11 +6,13 @@ subheading:
 image: 
 ---
 
-* Quices 10%
+* Quices 15%
 * Participación 10%
 * Examen 30%
-* Talleres 10%
-* Curso DL: 30%
+* Talleres 15%
+* Curso DL: 20%
+    * Cada entrega: 4%
+    * Evaluación final 4%
 * Proyecto 10%
 
 [Notas]()
