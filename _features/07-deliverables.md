@@ -13,6 +13,8 @@ Antes de hacer un envío revise las instrucciones en el enunciado correspondient
 * **Entregas Grupo 1:** Lunes y Miércoles 16:00-18:00 Profesor Fabio González
   * Práctica 1 (13/03/2022): [link](https://www.dropbox.com/request/gWU2Wqzu32D4q7IazWSQ)
   * Taller 1 (01/04/2022): [UNCode](https://uncode.unal.edu.co)
+  * Taller 2 (10/04/2022): [UNCode](https://uncode.unal.edu.co)
+  * Taller 3 (13/05/2022): [UNCode](https://uncode.unal.edu.co)
 
 <br>
 <br>
@@ -20,3 +22,5 @@ Antes de hacer un envío revise las instrucciones en el enunciado correspondient
 * **Entregas Grupo 2:** Lunes y Jueves 7:00-9:00 Profesor Jaime H. Niño
   * Práctica 1 (13/03/2022): [link](https://rb.gy/0s37wk)
   * Taller 1 (01/04/2022): [UNCode](https://uncode.unal.edu.co)
+  * Taller 2 (10/04/2022): [UNCode](https://uncode.unal.edu.co)
+  * Taller 3 (13/05/2022): [UNCode](https://uncode.unal.edu.co)
