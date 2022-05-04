@@ -125,7 +125,7 @@ image:
 				</td>
 				<td>
 					<a href= "practica4.pdf">Práctica 4</a><br>
-					<!-- <a href= "https://colab.research.google.com/drive/1OmNH1IkxMbStsba-VckVslVOoCKmGRLw?usp=sharing">Taller 3</a> -->
+					<a href= "https://colab.research.google.com/drive/1OmNH1IkxMbStsba-VckVslVOoCKmGRLw?usp=sharing">Taller 3</a>
 				</td>
 			</tr>
 			<tr>

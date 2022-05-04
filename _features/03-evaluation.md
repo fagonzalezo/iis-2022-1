@@ -15,4 +15,4 @@ image:
     * Evaluación final 4%
 * Proyecto 10%
 
-[Notas]()
+[Notas](https://docs.google.com/spreadsheets/d/1jkxv-fo4RxKvCFfvLkHSbUar3SNQg76a0hT0nEc2kIE/edit?usp=sharing)
