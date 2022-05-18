@@ -14,4 +14,4 @@ image:
 * [IAI-Udac] [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271), Udacity
 * [CS188-Berkeley] [CS 188 Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/su21/), UC Berkley, Summer 2021
 * [aima-python] [Python code for the book Artificial Intelligence: A Modern Approach](https://github.com/aimacode/aima-python), GitHub repository
-
+* [FundDL] Raúl Ramos, [Fundamentos de Deep Learning](https://fagonzalezo.github.io/2021.deeplearning/), Universidad de Antioquia, 2021
