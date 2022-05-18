@@ -137,7 +137,7 @@ image:
 				<td>
 					<b>Clase asíncrona</b>:<br>
 					 Support-vector machines, random forest (<a href= "https://colab.research.google.com/drive/1kfy-4I9OyP7rQTdbsNs5UoM6GVi0Ig4P?usp=sharing">notebook 1</a>)(<a href= "https://colab.research.google.com/drive/1MCfPiwOIG-v77YLUFW7iJmGVewiWAYbE">notebook 2</a>)(<a href= "https://drive.google.com/file/d/1J-oOjZfh0oTWPPrwHoE5VA8irGQ41n81/view?usp=sharing">video 1</a>)(<a href= "https://drive.google.com/file/d/1rgXm_XtV8NHi0W3UlpSbkQOgTWdIzvgy/view?usp=sharing">video 2</a>)<br>
-					 <b>Recursos adicionales:</b><br>
+					<b>Recursos adicionales:</b><br>
 					[Russell10] Sects 19.7.5, 19.8.1-2 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					<a href= "https://colab.research.google.com/drive/1kfy-4I9OyP7rQTdbsNs5UoM6GVi0Ig4P?usp=sharing">Notebook: Máquinas de vectores de soporte y selección de modelos</a><br>
 					<a href= "https://colab.research.google.com/drive/1MCfPiwOIG-v77YLUFW7iJmGVewiWAYbE">Notebook: Random Forests y exploración aleatorizada</a><br>
@@ -150,6 +150,9 @@ image:
 				<td>3.2.6 Redes neuronales<br>
 				</td>
 				<td>
+					<b>Clase asíncrona</b>:<br>
+					[FundDL] <a href= "https://fagonzalezo.github.io/2021.deeplearning/content/M02.html">Secc 2.1-2.4</a> <br>
+					<b>Recursos adicionales:</b><br>
 					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					[Alp10] Chap 11  (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>) <br>
 					<a href= "https://playground.tensorflow.org/">Neural Network Playground</a><br>
@@ -164,6 +167,9 @@ image:
 				<td>3.2.7 Deep learning<br>
 				</td>
 				<td>
+					<b>Clase asíncrona</b>:<br>
+					[FundDL] <a href= "https://fagonzalezo.github.io/2021.deeplearning/content/M02.html">Secc 2.5-2.8</a> <br>
+					<b>Recursos adicionales:</b><br>
 					Introduction to Deep Learning and Applications (<a href= "https://github.com/albahnsen/AppliedDeepLearningClass/blob/master/presentations/DL-introduction.pdf">slides</a>) <br>
 					<a href= "https://fagonzalezo.github.io/dl_tutorial_upv/">Representation Learning and Deep Learning Tutorial </a><br>
 					<a href= "https://colab.research.google.com/drive/1C8MOfKYY-Pb9dlNBli8pF8YYpYVCJuhp">Notebook: CNN for image classification in Keras</a><br>
@@ -172,10 +178,30 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>May 30-Jun 6</td>
+				<td>May 30</td>
 				<td>3.2.7 Deep learning<br>
 				</td>
 				<td>
+				<b>Clase asíncrona</b>:<br>
+				[FundDL] <a href= "https://fagonzalezo.github.io/2021.deeplearning/content/M03.html">Secc 3</a> <br>
+				<b>Recursos adicionales:</b><br>
+				Deep learning frameworks (<a href= "https://github.com/fagonzalezo/ml-2020-1/raw/master/ML%20Deep%20Learning%20Frameworks.pdf">slides</a>)<br>
+				Introduction to TensorFlow (<a href= "https://colab.research.google.com/drive/1cjmAU2v0oDZawN9AAZshz4t6AhqDOBf-">Jupyter notebook</a>)<br>
+				Neural Networks in Keras (<a href= "https://colab.research.google.com/drive/1iOIVyQ19GGkY_5knuLRo0HP3BouJlpwy">Jupyter notebook</a>)<br>
+				</td>
+				<td>
+					<!-- <a href= "Proyecto_Final_ISI_2021_2.pdf">Proyecto Final </a><br>
+					<a href= "taller-repaso-parcial.pdf">Taller Repaso Parcial</a><br> -->
+				</td>
+			</tr>
+			<tr>
+				<td>Jun 6</td>
+				<td>3.2.7 Deep learning<br>
+				</td>
+				<td>
+				<b>Clase asíncrona</b>:<br>
+				[FundDL] <a href= "https://fagonzalezo.github.io/2021.deeplearning/content/M04.html">Secc 4.1-4.5</a> <br>
+				<b>Recursos adicionales:</b><br>
 				Deep learning frameworks (<a href= "https://github.com/fagonzalezo/ml-2020-1/raw/master/ML%20Deep%20Learning%20Frameworks.pdf">slides</a>)<br>
 				Introduction to TensorFlow (<a href= "https://colab.research.google.com/drive/1cjmAU2v0oDZawN9AAZshz4t6AhqDOBf-">Jupyter notebook</a>)<br>
 				Neural Networks in Keras (<a href= "https://colab.research.google.com/drive/1iOIVyQ19GGkY_5knuLRo0HP3BouJlpwy">Jupyter notebook</a>)<br>
