@@ -207,8 +207,6 @@ image:
 				Neural Networks in Keras (<a href= "https://colab.research.google.com/drive/1iOIVyQ19GGkY_5knuLRo0HP3BouJlpwy">Jupyter notebook</a>)<br>
 				</td>
 				<td>
-					<!-- <a href= "Proyecto_Final_ISI_2021_2.pdf">Proyecto Final </a><br>
-					<a href= "taller-repaso-parcial.pdf">Taller Repaso Parcial</a><br> -->
 				</td>
 			</tr>
             <tr>
@@ -224,6 +222,7 @@ image:
 					<a href= "https://colab.research.google.com/drive/1_0Ipc_RqFNwBrVAc3HY4rZfDpKLHrbgR?usp=sharing">Notebook: Agrupamiento</a><br>
 				</td>
 				<td>
+					<a href= "proyecto_final.pdf">Proyecto Final </a><br>
 				</td>
 			</tr>
 			<tr>
